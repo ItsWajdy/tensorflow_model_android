@@ -1,4 +1,4 @@
-# tensorflow_model_example
+# tensorflow_model_android
 
 ## Objective
 This repository is just to demonstrate what classes are needed to run a tensorflow CNN model (converted to .rflite) on an Android device.
