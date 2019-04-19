@@ -1,0 +1,11 @@
+balcony_interior
+bathroom
+beach
+bedroom
+highway
+kitchen
+living_room
+restaurant
+stadium_soccer
+street
+swimming_pool_indoor
