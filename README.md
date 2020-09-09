@@ -1,7 +1,7 @@
 # tensorflow_model_android
 
 ## Objective
-This repository is just to demonstrate what classes are needed to run a tensorflow CNN model (converted to .rflite) on an Android device.
+This repository is just to demonstrate what classes are needed to run a tensorflow CNN model (converted to .tflite) on an Android device.
 This repository is only for safekeeping and is not used itself as a seperate app.
 
 ## Important Classes
